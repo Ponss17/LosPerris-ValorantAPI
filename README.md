@@ -4,7 +4,7 @@
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-![LosPerris Valorant API](imgs/ej/principal.webp)
+![LosPerris Valorant API](img/principal.webp)
 
 > **Hub para comandos de Valorant.**
 > Diseñado para streamers, esta herramienta permite generar comandos personalizados para tu chat (Nightbot, StreamElements, Botrix, etc.) sin tocar una sola línea de código.
@@ -104,5 +104,6 @@ Creado con ❤️ por **[Ponss17](https://www.instagram.com/ponss_jean/)**.
 Mira mi otra API: [LosPerris Followage API](https://www.losperris.site/).
 
 *Disclaimer: LosPerris Valorant Api no está respaldado por Riot Games y no refleja los puntos de vista u opiniones de Riot Games ni de nadie oficialmente involucrado en la producción o gestión de las propiedades de Riot Games. Riot Games y todas las propiedades asociadas son marcas comerciales o marcas registradas de Riot Games, Inc.*
+
 
 
