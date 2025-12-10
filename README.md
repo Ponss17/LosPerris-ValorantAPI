@@ -1,4 +1,4 @@
-# <img src="imgs/LosPerris-gamer.ico" width="40" alt="LosPerris Gamer"/> LosPerris - Valorant API
+# <img src="img/LosPerris-gamer.ico" width="40" alt="LosPerris Gamer"/> LosPerris - Valorant API
 
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)
@@ -31,7 +31,7 @@ No necesitas instalar nada. Todo funciona directamente desde la web.
 ### 1. Busca tu Perfil
 Ingresa tu **Riot ID** y **Tag** (ej. `PonssLoveless #8882`) y selecciona tu región.
 
-![Datos del Jugador](imgs/datos.webp)
+![Datos del Jugador](img/datos.webp)
 
 - **Rango Actual**: ELO y RR traducidos.
 - **Última Partida**: Resultado, KDA, HS% y fecha.
@@ -40,7 +40,7 @@ Ingresa tu **Riot ID** y **Tag** (ej. `PonssLoveless #8882`) y selecciona tu reg
 ### 2. Configura tu Bot
 Personaliza la respuesta del bot en la sección **"Configuración del Bot"**:
 
-![Configuración de Bots](imgs/bots.webp)
+![Configuración de Bots](img/bots.webp)
 
 - **Plataforma**: Nightbot, StreamElements, Botrix, Fossabot, Streamlabs.
 - **Idioma**: Español o Inglés.
@@ -51,7 +51,7 @@ Copia el código generado en la web y pégalo en tu chat.
 
 #### 📝 Ejemplos de Respuesta
 
-![Ejemplo en Chat](imgs/ejemplo-de-uso.webp)
+![Ejemplo en Chat](img/ejemplo-de-uso.webp)
 
 **Español (Natural):**
 - **!rango**: "Actualmente estoy en Diamante 1 con 50 puntos"
@@ -77,7 +77,7 @@ Copia el código generado en la web y pégalo en tu chat.
 
 ## 🛠️ API Endpoints (Para Desarrolladores)
 
-![Documentación](imgs/documentacion.webp)
+![Documentación](img/documentacion.webp)
 
 Si eres desarrollador, puedes usar la API directamente. Añade `?format=text` para respuestas en texto plano.
 
@@ -104,4 +104,5 @@ Creado con ❤️ por **[Ponss17](https://www.instagram.com/ponss_jean/)**.
 Mira mi otra API: [LosPerris Followage API](https://www.losperris.site/).
 
 *Disclaimer: LosPerris Valorant Api no está respaldado por Riot Games y no refleja los puntos de vista u opiniones de Riot Games ni de nadie oficialmente involucrado en la producción o gestión de las propiedades de Riot Games. Riot Games y todas las propiedades asociadas son marcas comerciales o marcas registradas de Riot Games, Inc.*
+
 
